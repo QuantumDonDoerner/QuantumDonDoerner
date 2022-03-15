@@ -1,1 +1,1 @@
-Hi, I’m @QuantumDonDoerner.  I am presently learning about bcc and bpf trace in order to facilitate kernel observability for some ML/AI projects I am working on.
+Hi, I’m Don Doerner, working for Quantum Corporation (@QuantumDonDoerner).  I am presently learning about __bcc__ and __bpftrace__ in order to facilitate kernel observability for some ML/AI projects I am working on.
